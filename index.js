@@ -98,4 +98,4 @@ const CourseInfo = {
   const result = getLearnerData(CourseInfo, AssignmentGroup, LearnerSubmissions);
   
   console.log(result);
-  
+  const learnerData = {};
